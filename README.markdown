@@ -13,5 +13,5 @@ A home page for the fictional business, Health-E-Foods. My interpretation of the
 
 ## Associated Links
 
-* [FreeCodeCamp 'Product Landing Page' Project Design Document](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
+* [FreeCodeCamp 'Build a Product Landing Page' Project Design Document](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
 * [Original CodePen](https://codepen.io/sam_donaldson2018/pen/EOreyV). 
