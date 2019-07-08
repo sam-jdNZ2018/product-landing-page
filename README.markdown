@@ -1,5 +1,7 @@
 # Product Landing Page
 
+Viewable at [this link](https://sam-jdnz2018.github.io/product-landing-page/).
+
 A home page for the fictional business, Health-E-Foods. My interpretation of the 'Product Landing Page' project from FreeCodeCamp. Brought into GitHub from CodePen where it was originally created.
 
 ## Contributors
